@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+记录/
+datasets/*
+models/*
+results/*
+*.zip
+*.ipynb
